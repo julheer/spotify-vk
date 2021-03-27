@@ -18,7 +18,7 @@ spotify = SpotifyAPI(config.spotify_api_token)
 
 def start_polling():
     while True:
-        user_listening_now = spotify.getUserCurrentTrack()
+        user_listening_now = spotify.get_user_player()
         if user_listening_now is None or not user_listening_now[0]:
             vk.status.set(text=config.replace_status)
 
