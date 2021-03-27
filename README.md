@@ -28,10 +28,4 @@ replace_status = 'Example status'
 listening_status = 'Spotify | Listening {song} by {author}'
 ```
 
-### Todos and future plans
-This repository plans to actively develop, we will make our plans below:
-- [ ] Switch all methods to asynchronous processing
-- [ ] Rewrite the code so that it can be scaled to a larger quota limit
-- [ ] Reduce the number of requests, while leaving the instant setting of the status when listening.
-
 © [Julheer](https://github.com/julheer), 2021. Developed with ❤.

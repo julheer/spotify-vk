@@ -1,2 +1,2 @@
-spotiapi==1.1.2
+spotiapi==1.2.4
 vk-api==11.9.1
