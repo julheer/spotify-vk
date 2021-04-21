@@ -1,3 +1,2 @@
-vk-api==11.9.1
-spotiapi==1.2.4
-requests==2.25.1
+vk-api>=11.9.1
+spotiapi>=2.0.3

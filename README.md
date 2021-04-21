@@ -5,7 +5,7 @@ A repository that can broadcast the current track from Spotify to the VK status.
 ### Dependencies
 This repository is based on two third-party libraries:
 * **[vk-api](https://github.com/python273/vk_api)** (**^11.9.1**)
-* **[spotiapi](https://github.com/julheer/spotiapi)** (^**1.2.4**)
+* **[spotiapi](https://github.com/julheer/spotiapi)** (^**2.0.3**)
 
 By using this program, you agree to the terms of use of these libraries.
 
